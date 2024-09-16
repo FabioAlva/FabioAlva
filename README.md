@@ -13,9 +13,6 @@ Soy estudiante de informática de Perú, apasionado por la tecnología y el desa
 
 <br clear="left"/>
 
-## Sobre mí
-
-Soy Fabio Alva, estudiante de informática en Perú. Me encanta aprender nuevas tecnologías, y actualmente estoy profundizando mis conocimientos en **Git**, **Docker**, **React**, y **Node.js**.
 
 ## Conéctate conmigo
 

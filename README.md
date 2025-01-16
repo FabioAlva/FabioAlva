@@ -1,6 +1,6 @@
 # ¡Hola, soy Fabio Alva! 👋
 
-Soy estudiante de informática de Perú, apasionado por la tecnología y el desarrollo de software. Actualmente, estoy aprendiendo las siguientes herramientas y tecnologías:
+Soy estudiante de informática de Perú, interesado por aprender sobre tecnología y el desarrollo de software. Actualmente, estoy aprendiendo las siguientes herramientas y tecnologías:
 
 ## Tecnologías que estoy aprendiendo
 

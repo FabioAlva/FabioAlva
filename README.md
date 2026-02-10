@@ -28,6 +28,17 @@ Interfaz en tiempo real para la gestión y monitoreo de señales simuladas.
 
 ---
 
+## Aprendiendo y Profundizando 📚
+
+Mi objetivo para este año es consolidar mi dominio en arquitecturas Node.js y, hacia la segunda mitad del año, especializarme en lenguajes de alto rendimiento:
+
+* **Q1 - Q2:** Especialización en **Fastify**, **Vue 3** y arquitecturas basadas en Schemas.
+* **Q3 - Q4:** Inmersión en **Go** para sistemas concurrentes y **Java (Spring Boot)** para aplicaciones corporativas de gran escala.
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
 ## Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-alva-aguilar-a0303532b/)

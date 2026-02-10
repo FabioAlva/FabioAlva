@@ -1,6 +1,6 @@
 # ¡Hola, soy Fabio Alva! 👋
 
-Bachiller de Ingeniería Informática, apasionado por aprender sobre el diseño de arquitecturas sólidas y el desarrollo de software escalable. Actualmente enfocado en el ecosistema Node.js y la optimización de sistemas industriales.
+Bachiller de Ingeniería Informática, apasionado por aprender sobre el diseño de arquitecturas sólidas y el desarrollo de software escalable. Actualmente enfocado en el ecosistema Node.js
 
 ## Stack Tecnológico
 

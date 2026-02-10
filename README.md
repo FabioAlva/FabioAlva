@@ -4,7 +4,7 @@ Bachiller de Ingeniería Informática, apasionado por aprender sobre el diseño 
 
 ## Stack Tecnológico
 
-<img align="left" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="200" />
+<img align="left" src="[https://raw.githubusercontent.com/hewiefreeman/GopherClientJava/master/Gopher%20Java%20Icon.png]" width="200" />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)

@@ -15,19 +15,7 @@ Bachiller de Ingeniería Informática, apasionado por aprender sobre el diseño 
 <br clear="left"/>
 
 ## Proyectos Recientes 🚀
-
-### 📡 [Signal Simulator API](https://github.com/FabioAlva/Api-quazar-project-simulater)
-Sistema backend desarrollado con **Fastify** y **SQLite** para la simulación de señales industriales.
-* **Arquitectura:** Implementación de Patrón Repositorio y validación estricta con JSON Schema.
-* **Core:** Inyección de dependencias mediante plugins y tipado fuerte con TypeScript.
-
-### 💻 [Signal Control Dashboard](https://github.com/FabioAlva/quasar-project)
-Interfaz en tiempo real para la gestión y monitoreo de señales simuladas.
-* **Frontend:** Desarrollado con **Vue 3** (Composition API) y **Quasar Framework**.
-* **Estado:** Uso de Composables personalizados y validación reactiva con Zod.
-
----
-
+X Portafolio
 ## Aprendiendo y Profundizando 📚
 
 Mi objetivo para este año es consolidar mi dominio en arquitecturas Node.js y, hacia la segunda mitad del año, especializarme en lenguajes de alto rendimiento:
